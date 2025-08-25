@@ -1,4 +1,4 @@
-# TimeSurferProxy
+# Time Surfer Proxy
 
 A GO-based HTTP proxy that allows clients to browse the internet as it appeared on a specific date in the past, using the Wayback Machine archives.  Simply enter in a URL in to your web browser, and let the proxy take you back in time!  
 
